@@ -1,10 +1,16 @@
 // Write your code in this file!
 function scuberGreetingForFeet() {
-  
+ if (feet <= 400) {
+   return `this one is on me!`;
+ }else if (1999 < feet && feet < 2500){
+   return "I will gladly take your thirty bucks.";
+ }else {
+   return "No can do.";
+ }
 }
 function ternaryCheckCity(){
-   
+
 }
 function switchOnCharmFromTip(){
-  
+
 }
