@@ -1,4 +1,10 @@
 // Write your code in this file!
-scuberGreetingForFeet()
-ternaryCheckCity()
-switchOnCharmFromTip()
+function scuberGreetingForFeet() {
+  
+}
+function ternaryCheckCity(){
+   
+}
+function switchOnCharmFromTip(){
+  
+}
